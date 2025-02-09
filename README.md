@@ -1,40 +1,52 @@
-# Calculator Application
+# 🧮 Calculator Application
 
-## Overview
-This is a simple calculator application developed using JavaFX and FXML. The application provides basic arithmetic operations, including addition, subtraction, multiplication, and division.
+## 📌 Overview
+This is a simple calculator application built with **JavaFX** and **FXML**. It supports basic arithmetic operations and provides a user-friendly graphical interface for seamless calculations.
 
-## Features
-- Basic arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/)
-- Decimal point support
-- Clear (AC) and delete (backspace) functionality
-- Immediate evaluation of expressions
-- User-friendly graphical interface
+## ✨ Features
 
-## Requirements
-- Java Development Kit (JDK) 17 or later
-- JavaFX SDK
-- NetBeans or any compatible Java IDE
+✅ **Basic Arithmetic Operations** ➕➖✖️➗  
+✅ **Decimal Point Support** 🔢  
+✅ **Clear (AC) & Delete (Backspace) Functions** 🗑️  
+✅ **Immediate Expression Evaluation** 🏎️  
+✅ **User-Friendly Interface** 🎨  
 
-## Installation
-1. Clone or download the project.
-2. Open the project in NetBeans (or another preferred IDE).
-3. Ensure JavaFX libraries are configured.
-4. Run the `Main.java` file.
+## 📋 Requirements
 
-## Usage
-1. Launch the application.
-2. Use the numeric buttons (0-9) to input numbers.
-3. Use the operator buttons (+, -, *, /) for calculations.
-4. Press `=` to evaluate the expression.
-5. Use `AC` to clear all input or `Delete` to remove the last character.
-6. Results are displayed in the text field.
+🔹 **Java Development Kit (JDK) 17+** ☕  
+🔹 **JavaFX SDK** 🎭  
+🔹 **NetBeans or Compatible Java IDE** 💻  
 
-## Known Issues
-- The application does not currently support complex mathematical functions like exponentiation or square roots.
-- Division by zero displays an error message.
+## ⚙️ Installation
 
-## Future Improvements
-- Add support for parentheses and operator precedence.
-- Implement a more advanced mathematical engine.
-- Improve UI design and responsiveness.
+1️⃣ **Clone or Download the Project** 📥  
+2️⃣ **Open in NetBeans (or any Java IDE)** 🖥️  
+3️⃣ **Ensure JavaFX Libraries are Configured** 🏗️  
+4️⃣ **Run the `Main.java` File** ▶️  
+
+## 🚀 Usage
+
+1️⃣ **Launch the Application** 🎬  
+2️⃣ **Use Numeric Buttons (0-9) for Input** 🔢  
+3️⃣ **Perform Calculations with (+, -, *, /)** ➕➖✖️➗  
+4️⃣ **Press `=` to Evaluate Expressions** 🟰  
+5️⃣ **Use `AC` to Clear Input & `Delete` for Last Character** 🗑️  
+6️⃣ **Results are Displayed in the Text Field** 📟  
+
+## 🐞 Known Issues
+
+⚠️ **No Support for Advanced Math Functions** (e.g., exponentiation, square roots)  
+⚠️ **Division by Zero Shows an Error Message** 🚫  
+
+## 🔮 Future Improvements
+
+🚀 **Add Parentheses & Operator Precedence** 📝  
+🚀 **Implement Advanced Mathematical Functions** 📊  
+🚀 **Enhance UI Design & Responsiveness** 🎨  
+
+---
+
+💡 **Contributors:**
+@Leofia ✨  
+
 
